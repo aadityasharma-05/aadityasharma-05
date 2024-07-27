@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![logo](https://github.com/aadityasharma-05/aadityasharma-05/blob/main/bannerphoto.png)
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
