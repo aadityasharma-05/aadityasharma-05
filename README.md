@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![logo](https://github.com/aadityasharma-05/aadityasharma-05/blob/main/bannerphoto.png)
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
+<h1 align="center">Hi 👋, I'm Adityaa Sharma</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
 <img align= "right" alt="coding" widht="400" src= "https://github.com/user-attachments/assets/af3e5012-ae3a-477d-abe9-5600f1f45aaa
